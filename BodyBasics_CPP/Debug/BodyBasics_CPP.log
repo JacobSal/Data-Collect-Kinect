@@ -1,0 +1,7 @@
+﻿  BodyBasics.cpp
+C:\Users\jsalminen\Documents\GitHub\Kinect_CPP\BodyBasics-D2D\BodyBasics.cpp(305,64): error C2664: 'bool CBodyBasics::SetStatusMessage(WCHAR *,DWORD,bool)': cannot convert argument 1 from 'const wchar_t [23]' to 'WCHAR *'
+C:\Users\jsalminen\Documents\GitHub\Kinect_CPP\BodyBasics-D2D\BodyBasics.cpp(305,26): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\jsalminen\Documents\GitHub\Kinect_CPP\BodyBasics-D2D\BodyBasics.h(107,29): message : see declaration of 'CBodyBasics::SetStatusMessage'
+C:\Users\jsalminen\Documents\GitHub\Kinect_CPP\BodyBasics-D2D\BodyBasics.cpp(461,85): error C2664: 'bool CBodyBasics::SetStatusMessage(WCHAR *,DWORD,bool)': cannot convert argument 1 from 'const wchar_t [40]' to 'WCHAR *'
+C:\Users\jsalminen\Documents\GitHub\Kinect_CPP\BodyBasics-D2D\BodyBasics.cpp(461,30): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\jsalminen\Documents\GitHub\Kinect_CPP\BodyBasics-D2D\BodyBasics.cpp(417,19): message : see declaration of 'CBodyBasics::SetStatusMessage'
